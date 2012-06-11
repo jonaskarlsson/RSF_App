@@ -31,7 +31,7 @@ import android.widget.TextView;
  * the user looses one of three tries to complete the game. If the journalists
  * lands anywhere but on the prison, the journalist frees a imprisoned
  * journalist and the game continues. It has five levels, each one a bit more
- * challenging.
+ * challenging. Modified the comment.
  * <ul>
  * <li>animating by calling invalidate() from draw()
  * <li>loading and drawing resources
