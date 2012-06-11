@@ -1,0 +1,1 @@
+This Android application was made as an assignment in a course in Android programming at Gotland University. The customer ordering the application were Reporters Without Borders. The initial work was done during the spring of 2012.
